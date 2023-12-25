@@ -8,7 +8,7 @@
 -----------------------------------------------------
 ** TASE CASE **
 =====================================================
-Total 6 :
+Total 8 :
 > TC-Cart
 1. TC-Add Item : Menambahkan item ke cart
 2. TC-CheckOut : Melakukan proses check out
