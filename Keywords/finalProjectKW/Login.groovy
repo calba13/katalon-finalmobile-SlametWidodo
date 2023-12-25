@@ -37,23 +37,24 @@ public class Login {
 				Mobile.tap(findTestObject('Object Repository/Mobile/Navigation/nav000_HamburgerMenu'), GlobalVariable.MaxLoading)
 				Mobile.delay(0.5)
 				Mobile.takeScreenshot()
-				
+
 				Mobile.verifyElementExist(findTestObject('Object Repository/Mobile/Navigation/LogOut/nav001_Username'), GlobalVariable.MaxLoading, FailureHandling.OPTIONAL)
 				Mobile.verifyElementText(findTestObject('Object Repository/Mobile/Navigation/LogOut/nav001_Username'), username, FailureHandling.STOP_ON_FAILURE)
-				
+
+				//				Mobile.delay(0.5)
+				//				Mobile.pressBack()
+
 				defaultVar["messageList"] << ["message" : "TestCase : ${tcTitle}"]
 				defaultVar["messageList"] << ["message" : "Username : ${username}"]
 				defaultVar["messageList"] << ["message" : "QC STATUS : GOOD"]
 				defaultVar["messageList"] << ["message" : ""]
-				
 			} else {
-				
+
 				defaultVar["isSuccess"] = false;
 				defaultVar["messageList"] << ["message" : "TestCase : ${tcTitle}"]
 				defaultVar["messageList"] << ["message" : "QC STATUS : NOT GOOD"]
 				defaultVar["messageList"] << ["message" : ""]
 			}
-			
 		} catch (Exception e) {
 
 			defaultVar["isSuccess"] = false;
@@ -62,7 +63,7 @@ public class Login {
 			defaultVar["messageList"] << ["message" : "QC STATUS : NOT GOOD"]
 			defaultVar["messageList"] << ["message" : ""]
 		}
-		
+
 		new customKW.common().cetak("defaultVar : ${defaultVar}");
 		new customKW.common().generateStepReport(defaultVar["isSuccess"], defaultVar["messageList"])
 	}
