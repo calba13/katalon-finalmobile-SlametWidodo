@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "FF6351383D554404DFDD8FE4F17D7D9A",
+  "keywordClasses": [
+    {
+      "name": "finalProjectKW.SignOut",
+      "keywordMethods": [
+        {
+          "name": "signOut",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
