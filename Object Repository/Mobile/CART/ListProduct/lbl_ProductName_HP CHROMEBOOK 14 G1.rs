@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>lbl_ProductName</name>
+   <name>lbl_ProductName_HP CHROMEBOOK 14 G1</name>
    <tag></tag>
-   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <elementGuidId>4cf3a816-b735-40e2-bd12-8d0660588158</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -12,7 +12,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>8f616b60-7b1e-42b6-8e64-bdde2aa44690</webElementGuid>
+      <webElementGuid>3259fc57-0f60-4e58-a052-eae08adbd7a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -20,15 +20,15 @@
       <name>index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>991d1fd5-6b8f-48c8-ac11-f6d783b3f23b</webElementGuid>
+      <webElementGuid>b602f760-95ef-4ac2-beb5-df1192e22d37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>HP CHROMEBOOK 14 G1(ENERGY STAR)</value>
-      <webElementGuid>a71d0d5e-96c2-4763-9fc5-a15080aee913</webElementGuid>
+      <webElementGuid>291dc5b3-2f75-4620-a675-02d85c2fb9de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.Advantage.aShopping:id/textViewProductName</value>
-      <webElementGuid>71fdc9ef-f1ac-46fd-9c2f-65a3ee3458fe</webElementGuid>
+      <webElementGuid>95bfe93f-eb98-424c-b43b-ba1ad748fa95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.Advantage.aShopping</value>
-      <webElementGuid>a5547e4c-1707-45f3-960d-4c45328551c5</webElementGuid>
+      <webElementGuid>55c1dedb-2ae8-47ab-8a7b-c43219b67eb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>22c38c4e-fc32-492d-b84f-2bafb455314e</webElementGuid>
+      <webElementGuid>6f549f0e-41e7-46f4-841b-40902f1911e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>08907222-f459-427f-88ed-ee3ef189dd81</webElementGuid>
+      <webElementGuid>229bf20a-ad95-4843-996c-505ebbd6e027</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fd61cc6a-9930-4ba8-9bc0-fa49da738ba0</webElementGuid>
+      <webElementGuid>b4d58df3-a70f-4595-9717-d6f407f6461f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>22b881f4-5de5-4754-811d-d8145ff8d0c7</webElementGuid>
+      <webElementGuid>fec44aff-9d47-47c3-8f78-3616330fe6c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>13816799-079f-4426-9684-84d61ad02eb0</webElementGuid>
+      <webElementGuid>d259f2ca-4f42-43b7-8907-af7b5fa99f69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>eb7d73ee-e555-4de0-a633-899b2575f4d8</webElementGuid>
+      <webElementGuid>91ea2a28-a7f9-4ba3-8ec6-5925caa3d5ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1c8a8b5b-3bab-4e26-9b51-8d9d33b7d47e</webElementGuid>
+      <webElementGuid>31cb28e2-1e3e-4ebd-8d43-5f3561a7bf83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0fa34ac1-1e3f-460d-aa64-f4ef2c81cc9e</webElementGuid>
+      <webElementGuid>7dba2241-f9d1-4712-85b8-f152e415edb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e5c349b6-e6d0-4d5d-a497-587fe5e882cc</webElementGuid>
+      <webElementGuid>5ae96361-6a1c-414e-85c2-ea6acf54fbbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>61a6d6a5-b579-4190-aceb-c7a42887cb25</webElementGuid>
+      <webElementGuid>59269705-8efc-4882-a538-432d66bf9c31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>x</name>
       <type>Main</type>
       <value>63</value>
-      <webElementGuid>768fbd86-3bf7-4683-906d-6c1a663cef54</webElementGuid>
+      <webElementGuid>9318f81d-3bc0-4df8-ac9d-60da629eeb69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>y</name>
       <type>Main</type>
       <value>722</value>
-      <webElementGuid>417bfd61-edf8-46fd-ab7d-6c93c37f9637</webElementGuid>
+      <webElementGuid>4acf677d-2b5b-417f-b841-b734a7c94ecb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>width</name>
       <type>Main</type>
       <value>414</value>
-      <webElementGuid>6ae99fe0-a317-4b01-9460-bfb0f1682732</webElementGuid>
+      <webElementGuid>f4853b7a-594c-4bde-9561-56bbc238ba29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>height</name>
       <type>Main</type>
       <value>179</value>
-      <webElementGuid>2d89f35f-a272-4002-b774-2cc7979e5a0c</webElementGuid>
+      <webElementGuid>12c95bb5-06ee-4af5-8fd3-7309117ae801</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -164,7 +164,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[63,722][477,901]</value>
-      <webElementGuid>348cdbfe-8666-492a-82fc-7406c0c01c6c</webElementGuid>
+      <webElementGuid>b409a111-f79c-437f-ad99-c74192f8ac87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,7 +172,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>49d4ee66-43e4-42a1-9680-bea3589b791c</webElementGuid>
+      <webElementGuid>a0b5e238-bf5c-48fa-bf09-462510d361f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -180,8 +180,8 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.drawerlayout.widget.DrawerLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.GridView[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]</value>
-      <webElementGuid>9b50a877-527f-4229-ae77-999d612f3e38</webElementGuid>
+      <webElementGuid>0ad3be8e-c649-4cb5-98ee-c9ad00fdcf0c</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and (@text = 'HP CHROMEBOOK 14 G1(ENERGY STAR)' or . = 'HP CHROMEBOOK 14 G1(ENERGY STAR)') and @resource-id = 'com.Advantage.aShopping:id/textViewProductName']</locator>
+   <locator>//*[@class = 'android.widget.TextView' and @resource-id = 'com.Advantage.aShopping:id/textViewProductName']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>

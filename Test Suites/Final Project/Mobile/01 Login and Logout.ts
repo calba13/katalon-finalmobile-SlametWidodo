@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>01 Login</name>
+   <name>01 Login and Logout</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -23,17 +23,26 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC-Login/TC-Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8166a716-313d-4250-8139-c9eae643ac47</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SignUp/userProfile</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>8166a716-313d-4250-8139-c9eae643ac47</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
          <variableId>21510736-2ca0-4cd3-ab8c-7d3aad5bc5fc</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>8166a716-313d-4250-8139-c9eae643ac47</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
          <variableId>a37b01d1-fea0-428c-b3aa-f3921fe22d49</variableId>
       </variableLink>
    </testCaseLink>
