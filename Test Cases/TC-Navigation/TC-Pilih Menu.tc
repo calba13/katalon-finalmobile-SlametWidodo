@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Pilih Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6c41137-b76a-4e2a-bed6-edf44d2abbe2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81fac690-b0c8-4049-b9c0-03b08b74c53a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'laptops'</defaultValue>
+      <description></description>
+      <id>81fac690-b0c8-4049-b9c0-03b08b74c53a</id>
+      <masked>false</masked>
+      <name>menu</name>
+   </variable>
+</TestCaseEntity>

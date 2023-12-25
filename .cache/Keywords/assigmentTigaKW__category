@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "15F780E153DAE926D49BB50F1E9DF1CA",
+  "keywordClasses": [
+    {
+      "name": "assigmentTigaKW.category",
+      "keywordMethods": [
+        {
+          "name": "selectCategory",
+          "parameters": [
+            {
+              "name": "category",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createReport",
+          "parameters": [
+            {
+              "name": "defaultVar",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
