@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "F5E41632D564B07D29DE12923138B608",
+  "keywordClasses": [
+    {
+      "name": "finalProjectKW.Navigation",
+      "keywordMethods": [
+        {
+          "name": "pilihMenu",
+          "parameters": [
+            {
+              "name": "target",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

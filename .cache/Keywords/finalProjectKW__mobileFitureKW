@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "5F50CCAE125A89BD393D0066012A80BC",
+  "keywordClasses": [
+    {
+      "name": "finalProjectKW.mobileFitureKW",
+      "keywordMethods": [
+        {
+          "name": "cetak",
+          "parameters": [
+            {
+              "name": "msg",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
