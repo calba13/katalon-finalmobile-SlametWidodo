@@ -34,7 +34,7 @@ Total 6 :
 -----------------------------------------------------
 ** TASE SUITE **
 =====================================================
-Total 3 :
+Total 4 :
 1. 00 Sign Up [ Flow: TC3 > TC8(use dataBinding) ]
 2. 01 Login and Logout [ Flow: TC3 > TC5(use dataBinding) > TC7 ]
 3. 02 Add Product to Cart, Check Out and Sign Out [ Flow: TC3 > TC5 > TC1(use dataBinding) > TC2 > TC7 ]
